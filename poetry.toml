@@ -1,0 +1,4 @@
+[virtualenvs]
+create = true
+in-project = true
+prompt = "P3_Anticipez_conso"
